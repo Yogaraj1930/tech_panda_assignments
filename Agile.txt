@@ -1,0 +1,30 @@
+What is Agile methodology?
+    Agile methodology is a way of managing and developing projects—especially software projects—where you build the product in small steps, get feedback frequently, and adapt to changes.
+Instead of deciding everything at the beginning and delivering the entire product at the end, Agile works in short cycles called iterations or sprints.
+
+Agile emphasizes:
+
+People and collaboration — developers, testers, designers, customers, and stakeholders communicate frequently.
+Working software — prioritize something that actually works over producing lots of documentation.
+Customer feedback — involve the customer throughout development rather than only at the end.
+Responding to change — requirements can change, and the team adapts.
+Continuous improvement — after each iteration, the team looks at what went well and what should improve.
+
+What is the Waterfall Method?
+
+The Waterfall methodology is a traditional project management and software development approach where work happens step by step in a fixed sequence.
+Think of it like a waterfall: once you move down to the next stage, you generally don't go back.
+
+Stages:
+
+Requirements
+     ↓
+Design
+     ↓
+Development
+     ↓
+Testing
+     ↓
+Deployment
+     ↓
+Maintenance
