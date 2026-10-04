@@ -1,5 +1,11 @@
 What is SDLC?
     SDLC stands for software developement life cycle, it is a step by step process that team follows to plan, build, test and maintain software.
     It is used to maintain better quality, lower cost, predictable timelines and better team work.
-    It has seven phasen. Planning, Requirement, Design, Developement, Testing, Deployment and Maintainance.
-    
+    It has seven phases. Planning, Requirement, Design, Developement, Testing, Deployment and Maintainance.
+    Planning - Design what to build and whether it's worth building. Set goal, scope, budget and timeline. Persons involved - senior engineer, business leaders, project managers and client.
+    Requirement - Understand exactly what users and business need. Will right down functional and nonfunctional needs. Persons involved - Business analyst, product owners, clients and end users.
+    Design - Create the blueprint before writing a single line of code. Design the architecture, Sketch the screens, Plan the database. Persons involved - Software architects, UI/UX designers, senior developers.
+    Development -  The blueprint becomes real, working code. Developers write code following the design documents, Work is split into small tasks across the team. Persons involved - Front-end, back-end and full-stack developers.
+    Testing - Hunt down bugs before your users ever meet them. Verify the software matches the requirements, Run unit, integration, system and acceptance tests. Persons involved - QA engineers, testers, developers, sometimes real users
+    Deployment - Ship it! The software goes live to real users. Release the software to the production environment, Often rolled out gradually. Persons involved - DevOps engineers, release managers, support teams
+    Maintenance - Keep it healthy, secure and improving — for years. Fix bugs that users discover in the real world, Release updates, patches and security fixes. Persons involved - Support engineers, developers, product manager.
