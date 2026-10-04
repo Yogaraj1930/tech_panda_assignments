@@ -1,0 +1,13 @@
+Git commands,
+    After creating github account we can share the files from to git to github using the following commands,
+    Once a file is created in local disc
+Step 1 - Enter visual code
+Step 2 - Press Terminal ---> New Terminal
+Step 3 - git init ---> Initialising Git
+Step 4 - git clone https ---> to clone the github repo
+Step 5 - git status ---> Check the newly created file status
+Step 6 - git add ---> to add the new file to repo, not yet added will be staged
+Step 7 - git commit -m "" ---> now the new file will be added 
+Step 8 - git status ---> we can see the new file added status 
+Step 9 - git push origin main ---> to move the new file to the centralized spcace
+Step 10 - git pull ---> Any changes made in the centralized repo (github) will be reflected.
