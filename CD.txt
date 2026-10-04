@@ -1,0 +1,7 @@
+What is CD?
+    Continuous Delivery automatically builds, tests, and prepares the application for production, but production deployment may require manual approval. Continuous Deployment goes one step further by automatically deploying every change that successfully passes the pipeline to production.
+
+    Continuous Delivery means Every change that passes the automated tests is ready to be released to production, but a person may still need to approve the production deployment.
+
+    Continuous Deployment goes one step further.code passes all required automated checks, it is automatically deployed to production.
+    
