@@ -1,0 +1,24 @@
+What is JIRA?
+
+   Jira is a project management and issue-tracking tool developed by Atlassian. It is commonly used by Agile teams, especially Scrum and Kanban teams, to create and manage issues, maintain backlogs, plan sprints, track progress, and manage bugs.
+Jira = tool used to manage and track the work
+
+          AGILE
+                   │
+             ┌─────┴─────┐
+             │            │
+          SCRUM        KANBAN
+             │            │
+             └─────┬──────┘
+                   │
+                 JIRA
+                   │
+        ┌──────────┼──────────┐
+        ↓          ↓          ↓
+     Backlog     Sprint      Board
+        ↓          ↓          ↓
+     Stories     Tasks     Status
+     Epics       Bugs      Progress
+
+Jira itself is not a methodology. Jira is a tool that supports Agile methodologies such as Scrum and Kanban
+
