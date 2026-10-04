@@ -1,0 +1,5 @@
+What is SDLC?
+    SDLC stands for software developement life cycle, it is a step by step process that team follows to plan, build, test and maintain software.
+    It is used to maintain better quality, lower cost, predictable timelines and better team work.
+    It has seven phasen. Planning, Requirement, Design, Developement, Testing, Deployment and Maintainance.
+    
