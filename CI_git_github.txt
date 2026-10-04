@@ -1,0 +1,12 @@
+WHat is GIT?
+    Git is a version control system.
+    It helps developers track changes to their code.
+    See what changed, See who changed it, Go back to an older version, Work with other developers, Create separate branches for different features.
+
+What is GitHub?
+    GitHub is an online platform where Git repositories can be stored and shared.
+    Git = the tool that tracks code
+    GitHub = a place on the internet where you can store/share that Git code
+
+A repository (repo) is basically project's Git-managed storage.
+The repository contains source code and its Git history.
